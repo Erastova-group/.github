@@ -6,11 +6,6 @@ We are a research group at the School of Chemistry, University of Edinburgh, int
 
 To learn more about the group, visit: [erastova.xyz](https://www.erastova.xyz)
 
-.eg-logo {
-  width: 180px;
-  height: auto;
-  display: block;
-}
 ---
 
 ## Codes
