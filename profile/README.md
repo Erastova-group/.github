@@ -5,7 +5,7 @@ Welcome to the GitHub page of the Erastova Group.
 We are a research group at the School of Chemistry, University of Edinburgh, interested in molecular models of natural minerals and materials. This page brings together our codes, molecular models, teaching materials, and working resources.
 
 To learn more about the group, visit: [erastova.xyz](https://www.erastova.xyz)
-
+<img class="eg-logo" src="Logo_B.png" alt="Erastova Group logo">
 ---
 
 ## Codes
