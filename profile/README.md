@@ -39,7 +39,7 @@ Repositories supporting the development of molecular models for biochars and the
 - [24D_biochar](https://github.com/Erastova-group/24D_biochar)  
   Molecular dynamics study of 2,4-D adsorption on biochar.
 
-- [Tutorials](https://github.com/Erastova-group/Biochar_Tutorials)
+- [Tutorials](https://github.com/Erastova-group/Biochar_Tutorials)  
   Two tutorials coverung the set-up and use of biochar molecular models, described in the works above. 
 
 ---
@@ -69,8 +69,8 @@ Teaching repositories and materials developed by the group. Some of these resour
 - [ClayCode Workshop](https://github.com/Erastova-group/ClayCode-workshop)  
   Workshop materials for learning how to use ClayCode.
 
-- [Biochar Molecular Models Tutorials](https://github.com/Erastova-group/Biochar_Tutorials)
-  Guides through set-up of biochar molecular models against experimental characterisation and simulation of adsorption onto these biochars. 
+- [Biochar Molecular Models Tutorials](https://github.com/Erastova-group/Biochar_Tutorials)  
+  Guides through set-up of biochar molecular models against experimental data and simulation of adsorption using biochar molecular models. 
 
 More teaching materials will be added as they become available.
 
